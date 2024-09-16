@@ -5,3 +5,8 @@ AMR data
 These data represent the sort of data that might be obtained from SGSS
 
 *id Integer - A unique identifier for each person.
+*date Date - specimen date
+*species Character - species name of organism
+*dob Date - patient date of birth
+
+
